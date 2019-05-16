@@ -1,4 +1,4 @@
-package com.gupaoedu.mebatis.Thread.interrupt;
+package com.gupaoedu.zhangjie.Thread.interrupt;
 
 public class TestInterrupt {
     public static void main(String[] args) {
